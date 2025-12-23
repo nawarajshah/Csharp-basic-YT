@@ -31,7 +31,6 @@ namespace MethodOfConsole
             Console.ReadKey();
 
         }
-        //test
 
     }
     
