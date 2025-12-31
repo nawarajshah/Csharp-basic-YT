@@ -6,7 +6,7 @@
     <RootNamespace>C__basic_YT</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Literals.Program</StartupObject>
+    <StartupObject>TypeCastingExample.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
