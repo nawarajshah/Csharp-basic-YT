@@ -1,10 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.Metrics;
-using System.Net.NetworkInformation;
-using System.Runtime.InteropServices;
-
-namespace TypeCastingExample
+﻿namespace TypeCastingExample
 {
     class Program
     {
