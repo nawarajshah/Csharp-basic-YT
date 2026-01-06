@@ -6,7 +6,7 @@
     <RootNamespace>C__basic_YT</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Loops.Program</StartupObject>
+    <StartupObject>MethodAndParameters.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
