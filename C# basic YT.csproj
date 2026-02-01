@@ -6,7 +6,7 @@
     <RootNamespace>C__basic_YT</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ArraysAndCollections.Program</StartupObject>
+    <StartupObject>CsharpString.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
